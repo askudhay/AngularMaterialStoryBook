@@ -1,27 +1,29 @@
-# StorybookNgMaterial
+# StoryBook for Angular Material Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4 and StoryBook V6.3.
 
-## Development server
+## Install dependencies
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm i` to install dependencies.
 
-## Code scaffolding
+## Run StoryBook
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm run storybook` to run StoryBook in your local machine.
 
-## Build
+## Run StoryBook - Docs
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `npm run storybook-docs` to run just StoryBook - Docs.
 
-## Running unit tests
+## Build StoryBook
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `build-storybook` to build StoryBook static web application.
 
-## Running end-to-end tests
+## Further Reading
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Check out my blog post for further reading.
 
-## Further help
+[How to Setup Storybook.js for Angular Material Components](https://bit.ly/ausbngmat)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Reach me
+
+If you have any questions related to this project, reach me on Twitter at [AskUdhay](https://twitter.com/AskUdhay).
